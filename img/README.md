@@ -1,2 +1,2 @@
-![](img.jpg)
-![](./img.jpg)
+![](helpbox-contact.jpg)
+![](./helpbox-contact.jpg)
